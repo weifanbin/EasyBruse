@@ -1,0 +1,20 @@
+//
+//  EasyBurse-Prefix.pch
+//  EasyBurse
+//
+//  Created by 魏凡缤 on 15/12/2.
+//  Copyright © 2015年 com.blueboyhi. All rights reserved.
+//
+
+#ifndef EasyBurse_Prefix_pch
+#define EasyBurse_Prefix_pch
+
+#import "MacroDefinitions.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "UIView+Frame.h"
+#import "UIButton+Custom.h"
+#import "iToast.h"
+#import "MV_Utils.h"
+#endif /* EasyBurse_Prefix_pch */

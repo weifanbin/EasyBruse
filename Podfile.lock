@@ -1,0 +1,29 @@
+PODS:
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - HSDatePickerViewController (1.0.2)
+  - IQKeyboardManager (3.3.4)
+  - StyleSheet (0.1.1)
+  - UMengSocial (4.3)
+  - WMPageController (1.2.5)
+
+DEPENDENCIES:
+  - FMDB
+  - HSDatePickerViewController (~> 1.0)
+  - IQKeyboardManager
+  - StyleSheet
+  - UMengSocial (~> 4.3)
+  - WMPageController
+
+SPEC CHECKSUMS:
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  HSDatePickerViewController: 61ef88a61e3a553c28ffbecbdcf2d8743789a85f
+  IQKeyboardManager: ac803e61e5b50efae6b3aeedd95a02c7c7d3b2b3
+  StyleSheet: 33d1ebaa56d138d0407f5ae80b520c8b1e921b36
+  UMengSocial: e649f30dd9a3686c74daba880e83f818f66bd890
+  WMPageController: 1a071f465823128e1d03702f0fa8df5606e1c96e
+
+COCOAPODS: 0.39.0
